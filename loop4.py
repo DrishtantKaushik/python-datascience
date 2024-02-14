@@ -16,5 +16,8 @@ movies =[
 for name in movies:
     if 'k' in name:
         print(name)
-    if name.startswith('A'):
-       print(name) 
+    if 'a' in name:
+        print(name)
+    if '2'in movies:
+        print(name)    
+              
