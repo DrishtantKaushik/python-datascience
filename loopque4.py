@@ -8,7 +8,9 @@ def is_prime(num):
     else:
         i = 5
         while i * i <= num:
-            if num % i == 0 or num % (i + 2) == 0:
+            if num % i == 0 or num % (i + 2
+                                      
+                                      ) == 0:
                 return False
             i += 6
         return True
